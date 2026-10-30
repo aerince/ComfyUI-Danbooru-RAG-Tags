@@ -1,6 +1,6 @@
 # ComfyUI Danbooru RAG Tags
 
-输入自然语言（中/英文），通过本地向量检索与 LLM 智能裁决，自动转换为结构化 Danbooru 提示词。
+通过本地向量检索与LLM智能匹配，将任意格式提示词转换为结构化 Danbooru 提示词，支持中文，类似tags的短句结构描述匹配效果较好。
 
 - 节点名称：`Aerince Danbooru RAG Tags (自然语言转标签)`
 - 分类菜单：`Aerince/Prompt`
