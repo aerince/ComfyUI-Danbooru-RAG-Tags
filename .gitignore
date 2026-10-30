@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+*.log
+/danbooru_rag/config.local.json
+/danbooru_rag/data/
+/danbooru_rag/models/
+/danbooru_rag/bin/
+/output/

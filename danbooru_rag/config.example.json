@@ -1,0 +1,7 @@
+{
+  "model_path": "models/chat-model.gguf",
+  "embedding_model_path": "models/Qwen3-Embedding-0.6B-Q8_0.gguf",
+  "llama_server_path": "bin/llama-server.exe",
+  "database_path": "data/danbooru_tags.xlsx",
+  "index_root": "data/rag_index"
+}
